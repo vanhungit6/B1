@@ -1,0 +1,18 @@
+.tab {
+    width: 100%;
+}
+.tab th {
+    border: 1px solid #333;
+    background: green;
+    color: #fff;
+    text-align: left;
+}
+
+.tab td {
+    background: #e0e0eb;
+}
+table,
+th,
+td {
+    border: 1px solid black;
+}
